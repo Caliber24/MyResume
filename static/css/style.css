@@ -175,3 +175,7 @@ h3 {
 .projectName span {
   font-family: 'Source Sans Pro', sans-serif;
 }
+
+.nowrap{
+  white-space: nowrap;
+}
